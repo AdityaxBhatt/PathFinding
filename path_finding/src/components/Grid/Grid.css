@@ -1,4 +1,5 @@
 .board{
+    padding: 0%;
     width:100%;
     height:calc(100vh - min(20vh , 100px));
     background:black;
